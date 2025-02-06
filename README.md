@@ -18,7 +18,7 @@ Siga os passos abaixo para instalar e executar o projeto localmente.
 1. **Clone o repositório**
 
    ```bash
-   git clone https://github.com/rodsjessica/dash-cash.git)
+   git clone https://github.com/rodsjessica/dash-cash.git
    cd dashcash
 
 
